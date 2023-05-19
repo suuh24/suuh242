@@ -8,9 +8,7 @@
 - 🤝 I'm learning the course on Youtube [English](https://www.youtube.com/watch?v=7ZimwlX1ywU)
 
 - I love the animals, especially cats. **I think I'm funny.**
-![ceu](https://github.com/suuh24/suuh242/assets/132715581/a8c6e764-544e-4c4b-8439-fd8bd68fc2b5)
-
-
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/suuh_xz7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="suuh_xz7" height="30" width="40" /></a>
